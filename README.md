@@ -29,6 +29,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -46,11 +47,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/dream-ellie" title="GitHub Been">
-    <img src="https://img.shields.io/github/followers/dream-ellie?label=follow&style=social" alt-text="GitHub Been" height="30"/>
+  <a href="https://github.com/dream-SongSeongBeen" title="GitHub Been">
+    <img src="https://img.shields.io/github/followers/SongSeongBeen?label=follow&style=social" alt-text="GitHub Been" height="30"/>
   </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="초보송이(chobosongyi)">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
+  <a href="https://www.youtube.com/channel/UCCNH3rLSpTiwPmBd_y_VgRA" title="chobosongyi(초보송이)">
+    <img src="https://img.shields.io/youtube/channel/chobosongyi(초보송이)/UCCNH3rLSpTiwPmBd_y_VgRA?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
 
