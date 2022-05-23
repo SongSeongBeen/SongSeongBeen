@@ -90,6 +90,7 @@
       badge&logo=linkedin&logoColor=white" /></a> 
 </P>
 -->
+<!--
 <h3>mY gIt</h3>
 <table>
   <td>
@@ -99,7 +100,7 @@
     <img alt="repo-size" src="https://img.shields.io/github/repo-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
   </td>
 </table>
-
+-->
 <!--
 **SongSeongBeen/SongSeongBeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
