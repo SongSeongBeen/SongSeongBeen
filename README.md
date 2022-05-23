@@ -50,7 +50,7 @@
       <td><a href="https://github.com/SongSeongBeen/GairBnB"><b>GariBnB</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/beygee/survive/SongSeongBeen/GairBnB"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
 
   </tbody>
@@ -87,10 +87,10 @@
 
 <table>
   <td>
-    <img alt="Stars" src="https://img.shields.io/github/languages/count/beygee/survive?style=flat-square&labelColor=343b41"/>
-    <img alt="Stars" src="https://img.shields.io/github/languages/top/beygee/survive?style=flat-square&labelColor=343b41"/>
-    <img alt="Stars" src="https://img.shields.io/github/languages/code-size/beygee/survive?style=flat-square&labelColor=343b41"/>
-    <img alt="Stars" src="https://img.shields.io/github/repo-size/beygee/survive?style=flat-square&labelColor=343b41"/>
+    <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="language" src="https://img.shields.io/github/languages/top/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="languagese" src="https://img.shields.io/github/languages/code-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="repo-size" src="https://img.shields.io/github/repo-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
   </td>
 </table>
 
