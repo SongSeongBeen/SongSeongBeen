@@ -90,8 +90,8 @@
 -->
 <table>
   <td>
-    <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
-    <img alt="language" src="https://img.shields.io/github/languages/top/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/GairBnB"/>
+    <img alt="Java" src="https://img.shields.io/github/languages/top/beygee/survive"/>
     <img alt="languagese" src="https://img.shields.io/github/languages/code-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
     <img alt="repo-size" src="https://img.shields.io/github/repo-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
   </td>
