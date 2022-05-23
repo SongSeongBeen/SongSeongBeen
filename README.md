@@ -40,6 +40,19 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
+  
+<b><em><a href="">Study with me!</a></em></b>
+
+---
+
+<p align="center">
+  <a href="https://github.com/dream-ellie" title="GitHub Been">
+    <img src="https://img.shields.io/github/followers/dream-ellie?label=follow&style=social" alt-text="GitHub Been" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="초보송이(chobosongyi)">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
+  </a>
+</p>
 
 
 
