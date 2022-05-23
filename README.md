@@ -80,6 +80,8 @@
 </a></br>Contact at <b>08:00</b> and sets at <b>18:30</b>.</p>
 
 <h3>Where to find me</h3>
+---
+
 <!--
 <p>
    <a href="https://github.com/SongSeongBeen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-
@@ -88,6 +90,7 @@
       badge&logo=linkedin&logoColor=white" /></a> 
 </P>
 -->
+<h3>mY gIt</h3>
 <table>
   <td>
     <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/GairBnB"/>
