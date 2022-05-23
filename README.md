@@ -42,7 +42,7 @@
     </tr>
   </thead>
   
-<b><em><a href="">Study with me!</a></em></b>
+<!--<b><em><a href="">Study with me!</a></em></b>-->
 
 ---
 
