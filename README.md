@@ -67,24 +67,27 @@
 </ul>
 -->
 <h3> Introduce 🤗</h3>
+업뎃
+<!--
 <p>
   <img width="200" src="" /> 
   <img width="200" src="" /> 
   <img width="200" src="" />
 </p>
+-->
 
 <p>Instagram <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do 
 </a></br>Contact at <b>08:00</b> and sets at <b>18:30</b>.</p>
 
 <h3>Where to find me</h3>
-
+<!--
 <p>
    <a href="https://github.com/SongSeongBeen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-
       badge&logo=Github&logoColor=white" /></a> 
    <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the- 
       badge&logo=linkedin&logoColor=white" /></a> 
 </P>
-
+-->
 <table>
   <td>
     <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
