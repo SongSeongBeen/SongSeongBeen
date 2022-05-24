@@ -106,7 +106,7 @@
 -->
 </br>
 <p class="has-line-data" data-line-start="168" data-line-end="169"><strong>↓↓Detailed↓↓</strong></p>
- <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+ <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/chapter01?style=flat-square&labelColor=343b41"/>
 
 <!--
     <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
