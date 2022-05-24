@@ -1,25 +1,28 @@
 
-<h2>Welcome to my page!👋</h2>
-</br> I'm Been, Fullstack developer from <b>Republic of Korea, Seoul🇰🇷.</b> </p>
-<h3> ❖ My tech stack ❖ </h3>
-<p>
-  </br>
-  •<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  </br>
-  •<img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-</p>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Welcome to my page!👋</h1>
+<h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="_The_Last_Markdown_Editor_Ever__1"></a><em>I'm Been, Fullstack developer from <b>Republic of Korea, Seoul🇰🇷.</em></h3>
+  
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My tech stack ❖</h3>
 
+<ul>
+  <li class="has-line-data" data-line-start="10" data-line-end="11">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  </li>
+  <li class="has-line-data" data-line-start="11" data-line-end="12">
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  </li>
+</ul>
 
 <!--<b><em><a href="">Study with me!</a></em></b>-->
 
@@ -33,9 +36,8 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCCNH3rLSpTiwPmBd_y_VgRA?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
-
-  <h3> ❖ Open source projects ❖ </h3>
-<table>
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source projects ❖</h3>
+<table >
   <thead align="center">
     <tr border: none;>
       <td><b>💻 Projects</b></td>
@@ -55,7 +57,8 @@
 
   </tbody>
 </table>
-<h3> ❖ My latest posts ❖ </h3>
+
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My latest posts ❖</h3>
 준비중
 <!--<ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
@@ -66,7 +69,8 @@
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
 -->
-<h3> Introduce 🤗</h3>
+
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
 업뎃
 <!--
 <p>
@@ -78,6 +82,7 @@
 
 <p>Instagram <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do 
 </a></br>Contact at <b>08:00</b> and sets at <b>18:30</b>.</p>
+
 
 <h3>Where to find me</h3>
 ---
