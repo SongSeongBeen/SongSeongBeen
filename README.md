@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCCNH3rLSpTiwPmBd_y_VgRA?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
+</br>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source projects ❖</h3>
 <table >
   <thead align="center">
@@ -57,7 +58,7 @@
 
   </tbody>
 </table>
-
+</br>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My latest posts ❖</h3>
 준비중
 <!--<ul>
@@ -69,7 +70,7 @@
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
 -->
-
+</br>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
 업뎃
 <!--
@@ -80,12 +81,20 @@
 </p>
 -->
 
-<p>Instagram <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do 
-</a></br>Contact at <b>08:00</b> and sets at <b>18:30</b>.</p>
 
 
+</br>
 <h3>Where to find me</h3>
----
+<ul>
+  <li class="has-line-data" data-line-start="10" data-line-end="11">
+      Instagram <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do
+    </a>
+  </li>
+  <li>
+    Contact at <b>08:00</b> and sets at <b>18:30</b>.
+  </li>
+
+</ul>
 
 <!--
 <p>
@@ -95,17 +104,24 @@
       badge&logo=linkedin&logoColor=white" /></a> 
 </P>
 -->
+</br>
+<p class="has-line-data" data-line-start="168" data-line-end="169"><strong>↓↓Detailed↓↓</strong></p>
+ <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+
 <!--
-<h3>mY gIt</h3>
-<table>
-  <td>
-    <img alt="languages" src="https://img.shields.io/github/languages/count/beygee/GairBnB"/>
-    <img alt="Java" src="https://img.shields.io/github/languages/top/beygee/survive"/>
-    <img alt="languagese" src="https://img.shields.io/github/languages/code-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
-    <img alt="repo-size" src="https://img.shields.io/github/repo-size/beygee/SongSeongBeen?style=flat-square&labelColor=343b41"/>
-  </td>
-</table>
+    <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="languages" src="https://img.shields.io/github/languages/count/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/>
+    <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/>
+    <img alt="languagese" src="https://img.shields.io/github/languages/code-size/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+    <img alt="repo-size" src="https://img.shields.io/github/repo-size/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
 -->
+
+
+
+
+ 
+
+
 <!--
 **SongSeongBeen/SongSeongBeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
