@@ -107,6 +107,9 @@
 </br>
 <p class="has-line-data" data-line-start="168" data-line-end="169"><strong>↓↓Detailed↓↓</strong></p>
  <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/chapter01?style=flat-square&labelColor=343b41"/>
+ <img alt="languages" src="https://img.shields.io/github/languages/count/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/>
+ <img alt="repo-size" src="https://img.shields.io/github/repo-size/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
+  <img alt="repo-size" src="https://img.shields.io/github/last-commit/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
 
 <!--
     <img alt="Java" src="https://img.shields.io/github/languages/top/SongSeongBeen/SongSeongBeen?style=flat-square&labelColor=343b41"/>
