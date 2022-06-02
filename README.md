@@ -27,7 +27,7 @@
 <!--<b><em><a href="">Study with me!</a></em></b>-->
 
 ---
-
+<!--
 <p align="center">
   <a href="https://github.com/dream-SongSeongBeen" title="GitHub Been">
     <img src="https://img.shields.io/github/followers/SongSeongBeen?label=follow&style=social" alt-text="GitHub Been" height="30"/>
@@ -36,6 +36,8 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCCNH3rLSpTiwPmBd_y_VgRA?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
+-->  
+  
 </br>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source projects ❖</h3>
 <table >
