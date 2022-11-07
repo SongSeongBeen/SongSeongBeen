@@ -107,7 +107,7 @@
     </a>
   </li>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
-    profile <a href="https://songseongbeen.github.io/profile/" target="_blank"><a/>
+    <a href="https://songseongbeen.github.io/profile/" target="_blank">profile </a>
   </li>
   <li>
     Contact at <b>08:00</b> and sets at <b>18:30</b>.
