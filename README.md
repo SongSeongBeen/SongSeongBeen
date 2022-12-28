@@ -47,6 +47,7 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🩸 Issues</b></td>
+      <td><b>🌐 language</b></td>
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
@@ -56,6 +57,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <!--
@@ -72,6 +74,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
