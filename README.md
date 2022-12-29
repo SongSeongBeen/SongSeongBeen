@@ -7,8 +7,8 @@
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
     <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -59,7 +59,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td>
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-          <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
           <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
@@ -80,7 +80,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td>
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-          <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
           <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
           <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
       </td>
@@ -108,7 +108,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
        <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -126,6 +126,9 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
+      <td>
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+      </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
