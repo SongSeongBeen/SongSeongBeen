@@ -101,6 +101,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
+  <!--
    <tbody>
     <tr>
       <td><a href="https://github.com/SongSeongBeen/GairBnB"><b>commonAjax</b></a></td>
@@ -112,6 +113,7 @@
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
+  -->
     <!--
     <tr>
       <td><a href="https://github.com/SongSeongBeen/vueJS"><b>vue.js</b></a></td>
