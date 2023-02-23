@@ -35,14 +35,16 @@
       <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
     </a>
   </li>
-  <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Gwansim issneun ❖</h3>
+</ul>
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Gwansim issneun ❖</h3>
+<ul> 
   <li class="has-line-data" data-line-start="11" data-line-end="12">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Apache Kafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   </li>
 </ul>
