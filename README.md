@@ -7,8 +7,9 @@
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
     <!--자바스크립트-->
-    [go](http://developer.mozilla.org/ko/docs/Web/JavaScript){:target="_blank" rel="noopener"} 
+    <a href="(http://developer.mozilla.org/ko/docs/Web/JavaScript)"{:target="_blank" rel="noopener"}>
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    </a>
     <!--자바-->
     <a href="https://www.java.com/ko/" target='_blank'>
       <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
