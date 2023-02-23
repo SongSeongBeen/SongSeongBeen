@@ -50,6 +50,7 @@
   </li>
 </ul>
 <br>
+  <!--자기소개-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
 <P>- 사용자 경험을 중요하게 생각합니다.
 <P>- 동료와의 커뮤니케이션을 중요하게 생각 합니다.
@@ -70,6 +71,7 @@
 -->  
   
 </br>
+<!--프로젝트-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source projects ❖</h3>
 <table >
   <thead align="center">
@@ -83,6 +85,7 @@
     </tr>
   </thead>
    <tbody>
+    <!--개어비엔비--> 
     <tr>
       <td><a href="https://github.com/SongSeongBeen/GairBnB"><b>GariBnB</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
@@ -95,17 +98,9 @@
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!--
+    <!--ERP--> 
     <tr>
-      <td><a href="https://github.com/SongSeongBeen/vueJS"><b>vue.js</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/vueJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/vueJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/vueJS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/vueJS?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    -->
-    <tr>
-      <td><a href="https://github.com/SongSeongBeen/ErpSystem"><b>ERPSystem</b></a></td>
+      <td><a href="https://github.com/SongSeongBeen/ErpSystem"><b>ERP-System</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
@@ -120,6 +115,7 @@
   </tbody>
 </table>
 </br>
+<!--오픈소스펑션정리-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source function ❖</h3>
 <table >
   <thead align="center">
@@ -165,6 +161,7 @@
   -->
 </table>
 </br>
+<!--자바공부-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study-Java ❖</h3>
 <table >
   <thead align="center">
@@ -181,6 +178,7 @@
   </tbody>
 </table>
 <br>
+<!--자바공부-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study-Spring ❖</h3>
 <table >
   <thead align="center">
