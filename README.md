@@ -6,7 +6,7 @@
 
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11"> 
-    <a href=" https://developer.mozilla.org/ko/docs/Web/JavaScript">
+    <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
     </a>
     <a href="https://www.java.com/ko/">
