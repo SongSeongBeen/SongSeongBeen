@@ -5,10 +5,10 @@
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My tech stack ❖</h3>
 
 <ul>
-  <li class="has-line-data" data-line-start="10" data-line-end="11">
-    
-    <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+  <li class="has-line-data" data-line-start="10" data-line-end="11">   
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    <a href="https://www.java.com/ko/">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
     </a>
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
     <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
