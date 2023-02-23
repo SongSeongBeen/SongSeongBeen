@@ -34,14 +34,14 @@
      <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-kr_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624365&adgroup=115749706703&cq_cmp=12212624365&gclid=CjwKCAiAl9efBhAkEiwA4Torio-OZSzPOenqnOpWMIbAGI3n_BGBATBptCGlR1fmbIgkjxVm7MnBLhoCYDkQAvD_BwE" target='_blank'>
       <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
     </a>
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />  
   </li>
 </ul>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Gwansim issneun ❖</h3>
 <ul> 
   <li class="has-line-data" data-line-start="11" data-line-end="12">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
