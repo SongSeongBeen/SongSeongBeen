@@ -23,7 +23,12 @@
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   </li>
 </ul>
-
+<br>
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
+<P>- 사용자 경험을 중요하게 생각합니다.
+<P>- 동료와의 커뮤니케이션을 중요하게 생각 합니다.
+<P>- 코드 효율 및 성능 향상을 위해 항상 고민합니다.
+<P>- 항상 새로운 것을 탐구하고 두려워 하지 않습니다.
 <!--<b><em><a href="">Study with me!</a></em></b>-->
 
 ---
@@ -178,8 +183,7 @@
 </ul>
 -->
 </br>
-<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
-업뎃
+
 <!--
 <p>
   <img width="200" src="" /> 
