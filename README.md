@@ -6,11 +6,14 @@
 
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+    
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-    <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+    <img alt="Java" https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white src="" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
     <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+    <img alt="OracleDB" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+    <img alt="OracleDB" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+    <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   </li>
   <li class="has-line-data" data-line-start="11" data-line-end="12">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
