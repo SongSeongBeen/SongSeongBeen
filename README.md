@@ -19,7 +19,7 @@
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My tech stack ❖</h3>
 
 <ul>
-  <li class="has-line-data" data-line-start="10" data-line-end="11">
+  <li class="has-line-data" data-line-start="10" data-line-end="11"> 
     <!--자바스크립트-->
     <a href="http://developer.mozilla.org/ko/docs/Web/JavaScript">
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -201,8 +201,13 @@
   </tbody>
 </table>
 -->
-<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My latest posts ❖</h3>
-  ####
+<!-- 블로그& 메일 관리 -->
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
+    <a href="https://chobosongyi.tistory.com/">
+      <img alt="TISTORY" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chobosongyi.tistory.com/" />
+    </a>
+    <img alt="TISTORY" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com" />
+    <img alt="TISTORY" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com" />   
 <!--상태 카드-->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My status card❖</h3>
 <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
@@ -226,8 +231,6 @@
   <img width="200" src="" />
 </p>
 -->
-
-
 
 </br>
 <h3>Where to find me</h3>
