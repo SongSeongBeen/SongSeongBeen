@@ -1,6 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SongSeongBeen) 
 
-
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Welcome to my page!👋</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 >
   <a id="_The_Last_Markdown_Editor_Ever__1"></a>
@@ -211,7 +210,7 @@
 <!--상태 카드-->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My status card❖</h3>
 <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
-<img alt="BAEKJOON" align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aktm1004">
+<!--<img alt="BAEKJOON" align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aktm1004"> -->
   
 <!--<ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
