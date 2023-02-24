@@ -1,4 +1,6 @@
 
+
+
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Welcome to my page!👋</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="_The_Last_Markdown_Editor_Ever__1"></a><em>I'm Been, Back-end developer from <b>Republic of Korea, Seoul.</em><!--<a href="https://songseongbeen.github.io/profile/" target="_blank">profile </a>--></h3>
   
@@ -194,9 +196,11 @@
   <tbody>
   </tbody>
 </table>
-<br>
+</br>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My latest posts ❖</h3>
 ####
+<img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
+  
 <!--<ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
@@ -219,10 +223,6 @@
 
 
 </br>
-<img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
-
-<img alt="BAEKJOON" src="https://solved.ac/aktm1004" >
-
 <h3>Where to find me</h3>
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
