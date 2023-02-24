@@ -221,7 +221,7 @@
 </br>
 <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
 
-<img alt="BAEKJOON" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aktm1004(https://solved.ac/aktm1004)" >
+<img alt="BAEKJOON" src="https://solved.ac/aktm1004" >
 
 <h3>Where to find me</h3>
 <ul>
