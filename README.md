@@ -220,6 +220,7 @@
 
 </br>
 <h3>Where to find me</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aktm1004)](https://solved.ac/aktm1004/)
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11">
       Instagram <a href="https://www.instagram.com/s__________do/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do
