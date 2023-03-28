@@ -46,8 +46,9 @@
      <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-kr_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624365&adgroup=115749706703&cq_cmp=12212624365&gclid=CjwKCAiAl9efBhAkEiwA4Torio-OZSzPOenqnOpWMIbAGI3n_BGBATBptCGlR1fmbIgkjxVm7MnBLhoCYDkQAvD_BwE" target='_blank'>
       <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     </a>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />  
+    <!--GitHub-->
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> >  
   </li>
 </ul>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Gwansim issneun ❖</h3>
@@ -196,6 +197,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
@@ -219,15 +221,27 @@
 </table>
 -->
 <!-- 블로그& 메일 관리 -->
-<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Tech blog ❖</h3>
     <a href="https://chobosongyi.tistory.com/">
-      <img alt="TISTORY" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chobosongyi.tistory.com/" />
+      <img alt="TISTORY" src="http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://chobosongyi.tistory.com/"/>
+    </a>   
+  
+<!-- 자기 소개 -->  
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
+<ul>
+  <li class="has-line-data" data-line-start="10" data-line-end="11">
+      Instagram <a href="https://www.instagram.com/s__________do/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do
     </a>
-    <img alt="TISTORY" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com" />
-    <img alt="TISTORY" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com" />   
+  </li>
+  <li>
+    <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com"/>
+  </li> 
+</ul>  
+Contact at <b>08:00</b> and sets at <b>18:30</b>.   
 <!--상태 카드-->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ My status card❖</h3>
-<img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical" />
+<img alt="Github" src="https://github-readme-stats.vercel.app/api?username=SongSeongBeen&show_icons=true&theme=radical"/>
 <!--<img alt="BAEKJOON" align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aktm1004"> -->
   
 <!--<ul>
@@ -250,16 +264,7 @@
 -->
 
 </br>
-<h3>Where to find me</h3>
-<ul>
-  <li class="has-line-data" data-line-start="10" data-line-end="11">
-      Instagram <a href="https://www.instagram.com/s__________do/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do
-    </a>
-  </li>
-  <li>
-    Contact at <b>08:00</b> and sets at <b>18:30</b>.
-  </li>
-</ul>
+
 
 <!--
 <p>
