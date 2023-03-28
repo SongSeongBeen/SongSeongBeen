@@ -20,45 +20,45 @@
   <li class="has-line-data" data-line-start="10" data-line-end="11"> 
     <!--자바스크립트-->
     <a href="http://developer.mozilla.org/ko/docs/Web/JavaScript">
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     </a>
     <!--자바-->
     <a href="https://www.java.com/ko/" target='_blank'>
-      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+      <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     </a>
      <!--스프링-->
     <a href="https://spring.io/" target='_blank'>
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+      <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     </a>
      <!--스프링부-->
     <a href="https://start.spring.io/" target='_blank'>
-       <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+       <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     </a>
     <!--Oracle-->
     <a href="https://www.oracle.com/kr/" target='_blank'>
-      <img alt="OracleDB" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+      <img alt="OracleDB" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
     </a>
     <!--Mysql-->
     <a href="https://www.mysql.com/" target='_blank'>
-      <img alt="OracleDB" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+      <img alt="OracleDB" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     </a>
     <!--MongoDB-->
      <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-kr_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624365&adgroup=115749706703&cq_cmp=12212624365&gclid=CjwKCAiAl9efBhAkEiwA4Torio-OZSzPOenqnOpWMIbAGI3n_BGBATBptCGlR1fmbIgkjxVm7MnBLhoCYDkQAvD_BwE" target='_blank'>
-      <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+      <img alt="OracleDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     </a>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />  
   </li>
 </ul>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Gwansim issneun ❖</h3>
 <ul> 
   <li class="has-line-data" data-line-start="11" data-line-end="12">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white"/>
   </li>
 </ul>
 <br>
@@ -96,10 +96,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
-          <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-          <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+          <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+          <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -110,11 +110,11 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-          <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />    
-          <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+          <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+          <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>    
+          <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -125,10 +125,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
-          <img alt="OracleDB" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />          
+          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+          <img alt="OracleDB" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>          
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -155,9 +155,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
-       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-      </td>
+      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
@@ -172,17 +170,15 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
-      <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-      </td>
+      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
   -->
 </table>
 </br>
-<!--자바공부-->
-<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study-Java ❖</h3>
+<!--Study-->
+<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study ❖</h3>
 <table >
   <thead align="center">
     <tr border: none;>
@@ -195,6 +191,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/SongSeongBeen/RestServiceTest"><b>vue.js</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <br>
@@ -212,13 +215,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-        <td><a href="https://github.com/SongSeongBeen/RestServiceTest"><b>vue.js</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 -->
