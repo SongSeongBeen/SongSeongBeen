@@ -8,7 +8,7 @@
   
 <!--자기소개-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>Introduce 🤗</h3>
-<img alt="Top Langs" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongSeongBeen&layout=compact&theme=tokyonight"> 
+<!--<img alt="Top Langs" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongSeongBeen&layout=compact&theme=tokyonight">-->
 <P>- 사용자 경험을 중요하게 생각합니다.
 <P>- 동료와의 커뮤니케이션을 중요하게 생각 합니다.
 <P>- 코드 효율 및 성능 향상을 위해 항상 고민합니다.
@@ -18,10 +18,10 @@
 
 <ul>
   <li class="has-line-data" data-line-start="10" data-line-end="11"> 
-    <!--자바스크립트-->
+    <!--자바스크립트
     <a href="http://developer.mozilla.org/ko/docs/Web/JavaScript">
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    </a>
+    </a>-->
     <!--자바-->
     <a href="https://www.java.com/ko/" target='_blank'>
       <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -97,7 +97,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+          <!--<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>-->
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
           <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>        
       </td>
@@ -110,7 +110,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/GairBnB?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+          <!--<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>-->
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
           <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
       </td>
@@ -123,7 +123,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
       <td>
-          <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+          <!--<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>-->
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
           <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>    
       </td>
