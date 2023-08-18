@@ -2,7 +2,7 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Welcome to my page!👋</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 >
   <a id="_The_Last_Markdown_Editor_Ever__1"></a>
-  <em>I'm Been, Back-end developer from <b>Republic of Korea, Seoul.</em><!--<a href="https://songseongbeen.github.io/profile/" target="_blank">profile </a>-->
+  <em>I'm Been, Full Stack Developer from <b>Republic of Korea, Seoul.</em><!--<a href="https://songseongbeen.github.io/profile/" target="_blank">profile </a>-->
    
 </h3>
   
