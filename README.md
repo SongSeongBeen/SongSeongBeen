@@ -30,7 +30,7 @@
     <a href="https://spring.io/" target='_blank'>
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     </a>
-     <!--스프링부-->
+     <!--스프링부트-->
     <a href="https://start.spring.io/" target='_blank'>
        <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     </a>
@@ -99,9 +99,11 @@
       <td>
           <!--<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>-->
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>        
+          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+          <img alt="AmazonEC2" src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Spring Boot&logoColor=white"/>
       </td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
+      <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=Spring Boot&logoColor=white"/>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/library-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <!--개어비엔비--> 
     <tr>
