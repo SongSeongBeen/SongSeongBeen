@@ -90,12 +90,12 @@
     </tr>
   </thead>
    <tbody>
-    <!--Kulry_clone--> 
+    <!--Library app--> 
     <tr>
-      <td><a href="https://github.com/Kim-min-gi/Kulry"><b>Kulry_Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/Kulry?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/SongSeongBeen/library-app"><b>library-app</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/library-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/library-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/library-app?style=flat-square&labelColor=343b41"/></td>
       <td>
           <!--<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>-->
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
