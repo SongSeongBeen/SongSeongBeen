@@ -1,25 +1,6 @@
 
- <!DOCTYPE html><html lang="en"><head>
-    <meta charset="UTF-8">
- 
- <style>
-        .button-link {
-            display: inline-flex;
-            align-items: center;
-            padding: 10px 20px;
-            margin: 10px;
-            text-decoration: none;
-            color: white;
-            background-color: #03C75A;
-            border: none;
-            border-radius: 5px;
-            font-size: 16px;
-            font-family: Arial, sans-serif;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-  </style>
- </head>  
+<head>
+</head>  
 <body>
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Welcome to my page!👋</h1>
 <h3 class="code-line" data-line-start=1 data-line-end=2 >
@@ -251,12 +232,11 @@
   
 <!-- 자기 소개 -->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
-    <a href="https://www.naver.com" onclick="window.open(this.href); return false;">
-    <!--<a href="https://mail.naver.com/v2/new" target="_blank">-->
+    <a href="https://mail.naver.com/v2/new" target="_blank">
       <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com"/>
       aktm1004@naver.com
     </a>
-    <a href="https://www.google.com" target="_blank" class="button-link">
+    <a href="https://www.google.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com"/>
       chobosongyi@gmail.com
     </a>
