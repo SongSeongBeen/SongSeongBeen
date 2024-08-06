@@ -229,10 +229,10 @@
   
 <!-- 자기 소개 -->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
-    <a>
+    <a href="mailto:aktm1004@naver.com">
       <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com"/>
     </a>
-    <a>
+    <a href="mailto:aktm1004@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com"/>
     </a>
   <!--<li class="has-line-data" data-line-start="10" data-line-end="11">
