@@ -230,9 +230,9 @@
 <!-- 자기 소개 -->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
 <ul>
-  <li class="has-line-data" data-line-start="10" data-line-end="11">
+  <!--<li class="has-line-data" data-line-start="10" data-line-end="11">
       Instagram <a href="https://www.instagram.com/s__________do/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@s__________do
-    </a>
+    </a>-->
   </li>
   <li>
     <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com"/>
