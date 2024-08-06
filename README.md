@@ -223,7 +223,8 @@
 -->
 <!-- 블로그& 메일 관리 -->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Tech blog ❖</h3>
-    <a href="https://chobosongyi.tistory.com/" target="_blank">
+    <a href="https://www.naver.com" onclick="window.open(this.href); return false;">
+    <!--<a href="https://chobosongyi.tistory.com/" target="_blank">-->
       <img alt="TISTORY" src="http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://chobosongyi.tistory.com/"/>
     </a>   
   
