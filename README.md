@@ -223,17 +223,17 @@
 -->
 <!-- 블로그& 메일 관리 -->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Tech blog ❖</h3>
-    <a href="https://chobosongyi.tistory.com/">
+    <a href="https://chobosongyi.tistory.com/" target="_blank">
       <img alt="TISTORY" src="http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://chobosongyi.tistory.com/"/>
     </a>   
   
 <!-- 자기 소개 -->  
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Contacts ❖</h3>
-    <a href="https://mail.naver.com/v2/new">
+    <a href="https://mail.naver.com/v2/new" target="_blank">
       <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:aktm1004@naver.com"/>
       aktm1004@naver.com
     </a>
-    <a href="https://www.gmail.com">
+    <a href="https://www.gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chobosongyi@gmail.com"/>
       chobosongyi@gmail.com
     </a>
