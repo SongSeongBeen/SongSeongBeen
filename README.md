@@ -196,6 +196,7 @@
     </tr>
   </thead>
   <tbody>
+    <!--
     <tr>
       <td><a href="https://github.com/SongSeongBeen/RestServiceTest"><b>RestService</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
@@ -204,6 +205,7 @@
       <td><img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    -->
   </tbody>
 </table>
 <br>
