@@ -140,7 +140,7 @@
   </tbody>
 </table>
 </br>
-<!--오픈소스펑션정리-->
+<!--오픈소스펑션정리
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source ❖</h3>
 <table >
   <thead align="center">
@@ -153,6 +153,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
+  -->
   <!--
    <tbody>
     <tr>
@@ -179,8 +180,9 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-  -->
+ 
 </table>
+ -->
 </br>
 <!--Study-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study ❖</h3>
@@ -196,16 +198,15 @@
     </tr>
   </thead>
   <tbody>
-    <!--
     <tr>
-      <td><a href="https://github.com/SongSeongBeen/RestServiceTest"><b>RestService</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/RestServiceTestS?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/SongSeongBeen/springBoot-study"><b>springBoot-study</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="SpringBoot" src="https://img.shields.io/github/SongSeongBeen/badge/springBoot-study?style=flat-square&logo=Spring Boot&logoColor=white"/></td>
       <td><img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/RestServiceTest?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    -->
   </tbody>
 </table>
 <br>
