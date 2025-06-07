@@ -33,10 +33,10 @@
     <a href="https://spring.io/" target='_blank'>
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     </a>
-     <!--스프링부트-->
+     <!--스프링부트
     <a href="https://start.spring.io/" target='_blank'>
        <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-    </a>
+    </a>-->
     <!--Oracle-->
     <a href="https://www.oracle.com/kr/" target='_blank'>
       <img alt="OracleDB" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-    <img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+    <!--<img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
     <!--<img alt="git" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> -->
     <img alt="git" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white"/>
   </li>
