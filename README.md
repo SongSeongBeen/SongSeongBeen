@@ -62,10 +62,10 @@
   <li class="has-line-data" data-line-start="11" data-line-end="12">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-    <img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+    <!--<img alt="git" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>-->
     <!--<img alt="git" src="https://img.shields.io/badge/-ApacheKafka-321F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
     <!--<img alt="git" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> -->
-    <img alt="git" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white"/>
+    <!--<img alt="git" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white"/>-->
   </li>
 </ul>
 <br>
