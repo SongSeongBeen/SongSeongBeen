@@ -156,7 +156,7 @@
   <tbody>
     <!-- mailgen-java -->
     <tr>
-      <td><a href="https://github.com/SongSeongBeen/mailgen-java"><b>mailgen-java</b></a></td>
+      <td><a href="https://github.com/SongSeongBeen/auto-emailgen"><b>mailgen-java</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
