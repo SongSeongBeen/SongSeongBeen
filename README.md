@@ -96,6 +96,20 @@
     </tr>
   </thead>
    <tbody>
+    <!--PayBunny--> 
+    <tr>
+      <td><a href="https://github.com/SongSeongBeen/PayBunny"><b>PayBunny</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/PayBunny?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/PayBunny?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/PayBunny?style=flat-square&labelColor=343b41"/></td>
+      <td>
+          <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+          <img alt="H2" src="https://img.shields.io/badge/-H2-1677B3?style=flat-square&logo=h2&logoColor=white"/>
+          <img alt="Security" src="https://img.shields.io/badge/-Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+      </td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/PayBunny?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <!--Library app--> 
     <tr>
       <td><a href="https://github.com/SongSeongBeen/library-app"><b>library-app</b></a></td>
