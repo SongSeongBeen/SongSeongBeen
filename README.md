@@ -140,20 +140,35 @@
   </tbody>
 </table>
 </br>
-<!--오픈소스펑션정리
-<h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Open source ❖</h3>
-<table >
+<!--오픈소스 라이브러리-->
+<h3 class="code-line" data-line-start=14 data-line-end=15><a id="Libraries_14"></a>❖ Open source libraries ❖</h3>
+<table style="width: 100%; border-collapse: collapse;">
   <thead align="center">
-    <tr border: none;>
-      <td><b>💻 function</b></td>
+    <tr>
+      <td><b>💻 Function</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🩸 Issues</b></td>
-      <td><b>🌐 language</b></td>
+      <td><b>🌐 Language</b></td>
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  -->
+  <tbody>
+    <!-- mailgen-java -->
+    <tr>
+      <td><a href="https://github.com/SongSeongBeen/mailgen-java"><b>mailgen-java</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      </td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/mailgen-java?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
   <!--
    <tbody>
     <tr>
@@ -180,9 +195,9 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/ErpSystem?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
- 
-</table>
  -->
+</table>
+ 
 </br>
 <!--Study-->
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="Features_14"></a>❖ Study ❖</h3>
