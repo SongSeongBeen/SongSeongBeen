@@ -205,7 +205,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
       <td>
           <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+          <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
       </td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SongSeongBeen/springBoot-study?style=flat-square&labelColor=343b41"/></td>
     </tr>
